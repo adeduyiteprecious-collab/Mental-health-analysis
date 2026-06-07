@@ -1,2 +1,2 @@
-# Vehicle--sales-analysis
-vehicle sales analysis using powerbi
+# Mental Health data
+Mental health analysis using powerbi
